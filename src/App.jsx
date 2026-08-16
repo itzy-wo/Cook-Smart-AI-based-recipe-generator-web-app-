@@ -17,7 +17,7 @@ import Analytics from './pages/Analytics';
 import AIChat from './pages/AIChat';
 import Settings from './pages/Settings';
 import RecipeGenerator from './pages/RecipeGenerator';
-
+import CookMode from "./pages/CookMode";
 // Layout
 import MainLayout from './layouts/MainLayout';
 
