@@ -6,7 +6,7 @@ from sqlalchemy import Column, JSON
 from sqlmodel import Field, SQLModel
 
 
-class recipe(SQLModel, table=True):
+class recipes(SQLModel, table=True):
     __tablename__ = "recipes"
 
     id: UUID = Field(
